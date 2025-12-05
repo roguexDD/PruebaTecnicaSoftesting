@@ -15,5 +15,5 @@
 
 **Principales dependencias:**
 - **selenium-java**  
-- **webdrivermanager:(gestión automática de drivers)** 
-- **testng (framework de pruebas)**
+- **webdrivermanager** 
+- **testng**
